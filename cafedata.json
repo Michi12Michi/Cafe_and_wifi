@@ -1,0 +1,38 @@
+[
+    {
+        "Cafe Name": "Lighthaus",
+        "Location": "https://goo.gl/maps/2EvhB4oq4gyUXKXx9",
+        "Open": "11AM",
+        "Close": " 3:30PM",
+        "Coffee": "\u2615\u2615\u2615\u2615\ufe0f",
+        "Wifi": "\ud83d\udcaa\ud83d\udcaa",
+        "Power": "\ud83d\udd0c\ud83d\udd0c\ud83d\udd0c"
+    },
+    {
+        "Cafe Name": "Esters",
+        "Location": "https://goo.gl/maps/13Tjc36HuPWLELaSA",
+        "Open": "8AM",
+        "Close": "3PM",
+        "Coffee": "\u2615\u2615\u2615\u2615",
+        "Wifi": "\ud83d\udcaa\ud83d\udcaa\ud83d\udcaa",
+        "Power": "\ud83d\udd0c"
+    },
+    {
+        "Cafe Name": "Ginger & White",
+        "Location": "https://goo.gl/maps/DqMx2g5LiAqv3pJQ9",
+        "Open": "7:30AM",
+        "Close": "5:30PM",
+        "Coffee": "\u2615\u2615\u2615",
+        "Wifi": "\u2718",
+        "Power": "\ud83d\udd0c"
+    },
+    {
+        "Cafe Name": "Mare Street Market",
+        "Location": "https://goo.gl/maps/ALR8iBiNN6tVfuAA8",
+        "Open": "8AM",
+        "Close": "1PM",
+        "Coffee": "\u2615\u2615",
+        "Wifi": "\ud83d\udcaa\ud83d\udcaa\ud83d\udcaa",
+        "Power": "\ud83d\udd0c\ud83d\udd0c\ud83d\udd0c"
+    }
+]
